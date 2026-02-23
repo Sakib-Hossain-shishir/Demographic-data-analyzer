@@ -13,9 +13,12 @@ A Python project that analyzes demographic data from the [Adult Census Income da
 - Country with the highest percentage of high earners.
 - Most popular occupation for high earners in India.
 
-boilerplate-demographic-data-analyzer/
-├── main.py                      # Entrypoint to run the project
-├── demographic_data_analyzer.py # Core analysis functions
-├── test_module.py               # Unit tests
-└── adult.data.csv               # Dataset
+
+demographic-data-analyzer
+
+├── main.py                      
+├── demographic_data_analyzer.py 
+├── test_module.py              
+└── adult.data.csv               
+
 
